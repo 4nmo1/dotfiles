@@ -1,3 +1,0 @@
-#!/usr/bin/env sh
-git config --global user.name "Kumar Anmol"
-git config --global user.email "anmol.kumar@finder.com"
